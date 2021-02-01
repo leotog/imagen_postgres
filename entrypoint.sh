@@ -1,3 +1,5 @@
+#SCRIPT DE CONFIGURACION
+
 #Arranco bd
 /etc/init.d/postgresql start
 
